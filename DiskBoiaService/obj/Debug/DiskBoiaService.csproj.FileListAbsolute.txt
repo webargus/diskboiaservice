@@ -1,0 +1,10 @@
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\DiskBoiaService.exe.config
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\DiskBoiaService.exe
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\DiskBoiaService.pdb
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Debug\DiskBoiaService.exe
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Debug\DiskBoiaService.pdb
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\webargus\Documents\Visual Studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Debug\DiskBoiaService.csprojResolveAssemblyReference.cache

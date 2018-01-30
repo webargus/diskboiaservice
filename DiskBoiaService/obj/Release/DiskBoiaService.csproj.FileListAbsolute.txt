@@ -1,0 +1,10 @@
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\DiskBoiaService.exe.config
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\DiskBoiaService.exe
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\DiskBoiaService.pdb
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\Newtonsoft.Json.dll
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\Newtonsoft.Json.Schema.dll
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\Newtonsoft.Json.xml
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\bin\Release\Newtonsoft.Json.Schema.xml
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Release\DiskBoiaService.csprojResolveAssemblyReference.cache
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Release\DiskBoiaService.exe
+C:\Users\webargus\documents\visual studio 2015\Projects\DiskBoiaService\DiskBoiaService\obj\Release\DiskBoiaService.pdb
